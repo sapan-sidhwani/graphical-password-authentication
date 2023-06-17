@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c03df6d.css",
+    "main.js": "/static/js/main.3411dada.js",
+    "static/media/pet1.jpg": "/static/media/pet1.df6ba027ee920e6848db.jpg",
+    "static/media/bicycle2.jpg": "/static/media/bicycle2.75104c72d41659e4b4a2.jpg",
+    "static/media/flower3.jpg": "/static/media/flower3.39ee429cb351f64ea110.jpg",
+    "static/media/pet2.jpg": "/static/media/pet2.30084f1cb5a38697a1e8.jpg",
+    "static/media/bicycle1.jpg": "/static/media/bicycle1.d4aa07c1b152ae160ef5.jpg",
+    "static/media/car1.jpg": "/static/media/car1.481709ecc1c0836aee84.jpg",
+    "static/media/flower2.jpg": "/static/media/flower2.b3dcd08991a7cc7f0a36.jpg",
+    "static/media/flower1.jpg": "/static/media/flower1.189f30efd0a947902b1c.jpg",
+    "static/media/bicycle3.jpg": "/static/media/bicycle3.9b3abb42e4cdc70edc40.jpg",
+    "static/media/car2.jpg": "/static/media/car2.6ce8bc58336ec8873b71.jpg",
+    "static/media/pet3.jpg": "/static/media/pet3.aa39d7d9bbb4f6a6a734.jpg",
+    "static/media/car3.jpg": "/static/media/car3.8548281a4707d9404b6c.jpg",
+    "index.html": "/index.html",
+    "main.5c03df6d.css.map": "/static/css/main.5c03df6d.css.map",
+    "main.3411dada.js.map": "/static/js/main.3411dada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c03df6d.css",
+    "static/js/main.3411dada.js"
+  ]
+}
